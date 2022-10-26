@@ -1,0 +1,15 @@
+# Passo a Passo a ser feito
+
+Criar player - [x]
+Criar ataque "Shoot" do player - [x]
+Criar inimigos - [x]
+Criar colisão com inimigo - [x]
+Criar colisão com player - [x]
+Remover shoots da tela - [ ]
+Colorir game - [ ]
+Encolher inimigos com shoot - [ ]
+Criar particula de explosão com shoot - [ ]
+Adicionar score - [ ]
+Adicionar gamer over Interface - [ ]
+Adicionar restart button - [ ]
+Adicionar start gme button - [ ]
